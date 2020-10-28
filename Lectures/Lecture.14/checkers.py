@@ -4,8 +4,8 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Lecture 14\n",
-    "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UTA-DataScience/DATA1401.2020.Fall/blob/master/Lectures/Lecture.14/Lecture.14.ipynb)\n",
+    "# Checkers Game\n",
+    "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UTA-DataScience/DATA1401.2020.Fall/blob/master/Lectures/Lecture.14/checkers.py)\n",
     "\n",
     "\n",
     "## Python Libraries\n"
