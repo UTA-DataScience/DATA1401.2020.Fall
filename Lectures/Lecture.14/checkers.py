@@ -11,7 +11,6 @@
     "## Python Libraries\n"
    ]
   }
- ] 
 }
 # Index assignment for the matrix representation of the game board
 player_1 = 1
